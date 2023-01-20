@@ -1,10 +1,9 @@
-# Curso web
+# CURSO WEB CON ACADEMIA VIRTUAL
 
-Curso web con academia virtual
+Estoy aprendiendo un diseno web
 
+## Esto es un Subtitulo
 
-## Esto es un subtitulo
-
-- Uno
-- Dos
-- Tres# Docurepositorio
+- Primer dato
+- segundo dato
+- tercer dato
